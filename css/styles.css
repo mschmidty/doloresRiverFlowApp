@@ -58,10 +58,15 @@ footer {
   left:20px;
 }
 .created-by {
+  color:#efefef;
   position:fixed;
   bottom:0;
-  background:#E8E8E8;
+  background:#333;
   width:100%;
   text-align:left;
   padding:5px;
+  font-size:1.2rem;
+}
+.created-by a {
+  color:#ccc;
 }
